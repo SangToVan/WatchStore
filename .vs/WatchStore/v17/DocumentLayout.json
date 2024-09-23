@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workspace\\TMDT\\WatchStore2\\WatchStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|e:\\workspace\\tmdt\\watchstore2\\watchstore\\watchstore\\areas\\admin\\views\\order\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\areas\\admin\\views\\order\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|e:\\workspace\\tmdt\\watchstore2\\watchstore\\watchstore\\areas\\admin\\views\\product\\topsellingproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\areas\\admin\\views\\product\\topsellingproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|e:\\workspace\\tmdt\\watchstore2\\watchstore\\watchstore\\areas\\admin\\views\\product\\nonsellingproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72B8F926-336E-4D87-90C9-A2A4254DD23E}|WatchStore\\WatchStore.csproj|solutionrelative:watchstore\\areas\\admin\\views\\product\\nonsellingproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Export.cshtml",
+              "DocumentMoniker": "E:\\Workspace\\TMDT\\WatchStore2\\WatchStore\\WatchStore\\Areas\\Admin\\Views\\Order\\Export.cshtml",
+              "RelativeDocumentMoniker": "WatchStore\\Areas\\Admin\\Views\\Order\\Export.cshtml",
+              "ToolTip": "E:\\Workspace\\TMDT\\WatchStore2\\WatchStore\\WatchStore\\Areas\\Admin\\Views\\Order\\Export.cshtml",
+              "RelativeToolTip": "WatchStore\\Areas\\Admin\\Views\\Order\\Export.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T17:41:33.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopSellingProducts.cshtml",
+              "DocumentMoniker": "E:\\Workspace\\TMDT\\WatchStore2\\WatchStore\\WatchStore\\Areas\\Admin\\Views\\Product\\TopSellingProducts.cshtml",
+              "RelativeDocumentMoniker": "WatchStore\\Areas\\Admin\\Views\\Product\\TopSellingProducts.cshtml",
+              "ToolTip": "E:\\Workspace\\TMDT\\WatchStore2\\WatchStore\\WatchStore\\Areas\\Admin\\Views\\Product\\TopSellingProducts.cshtml",
+              "RelativeToolTip": "WatchStore\\Areas\\Admin\\Views\\Product\\TopSellingProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T17:32:57.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NonSellingProducts.cshtml",
+              "DocumentMoniker": "E:\\Workspace\\TMDT\\WatchStore2\\WatchStore\\WatchStore\\Areas\\Admin\\Views\\Product\\NonSellingProducts.cshtml",
+              "RelativeDocumentMoniker": "WatchStore\\Areas\\Admin\\Views\\Product\\NonSellingProducts.cshtml",
+              "ToolTip": "E:\\Workspace\\TMDT\\WatchStore2\\WatchStore\\WatchStore\\Areas\\Admin\\Views\\Product\\NonSellingProducts.cshtml",
+              "RelativeToolTip": "WatchStore\\Areas\\Admin\\Views\\Product\\NonSellingProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T17:28:14.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
